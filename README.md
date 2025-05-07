@@ -11,11 +11,9 @@ Tipo de Arquiterura: Monolítica
 
 
 [Interface (Componentes Visuais)]
-
 	      ↓
        
 [Lógica de Negócio (Funções/Estados)]
-
 	      ↓
        
 [Acesso a Dados (LocalStorage, ou API locais/simulados)]
