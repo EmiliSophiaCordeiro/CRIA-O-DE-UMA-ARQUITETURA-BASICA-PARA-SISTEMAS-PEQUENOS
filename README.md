@@ -24,7 +24,7 @@ Lógica de Negócio: validações, manipulação de dados, regras.
 Acesso aos Dados: estados (useState()) ou comunicação com serviços/API.
 Componentes: FormularioCliente, ListaPedidos, App.
 
-Lógica: evitar cadastro com campos vazio. Evitar emails duplicados
+Lógica: evitar pedidos campos vazio. Evitar emails duplicados
 Armazenar dados temporariamente no estado.
 
 Próximo Passo:
